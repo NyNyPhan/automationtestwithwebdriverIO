@@ -1,0 +1,19 @@
+{
+  "name": "auto-test-webdriverio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/local-runner": "^7.24.0",
+    "webdriverio": "^7.24.0"
+  },
+  "devDependencies": {
+    "@wdio/mocha-framework": "^7.24.0"
+  }
+}
